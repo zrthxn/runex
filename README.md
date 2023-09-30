@@ -1,5 +1,5 @@
 # Experiment Runner
- 
+A helper to manage ML experiments.
 
 - [Experiment Runner](#experiment-runner)
   - [Working Requirements](#working-requirements)
