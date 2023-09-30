@@ -1,6 +1,9 @@
 # Experiment Runner
 A helper to manage ML experiments.
 
+> Note: I'm building this for myself, so it might not be the preferred way of working for everyone. 
+> Also, none of this works yet obviously.
+
 - [Experiment Runner](#experiment-runner)
   - [Working Requirements](#working-requirements)
   - [Usage](#usage)
